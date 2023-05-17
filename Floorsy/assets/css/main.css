@@ -1,0 +1,1719 @@
+div.about-us {
+    position: relative;
+    width: 100%;
+    height: 700px;
+    left: 0;
+}
+
+div.service-of-us {
+    position: relative;
+    width: 100%;
+    height: 1182px;
+    left: 0;
+}
+
+div.why-choose-us {
+    position: relative;
+    width: 100%;
+    height: 890px;
+    left: 0;
+    margin-top: -45px;
+}
+
+div.our-project {
+    position: relative;
+    width: 100%;
+    height: 815px;
+    left: 0;
+}
+
+div.new-event {
+    position: relative;
+    width: 100%;
+    height: 420px;
+    left: 0;
+}
+
+.rectangle-1 {
+    /* Rectangle 3873 */
+
+    position: absolute;
+    width: 485px;
+    height: 632px;
+    left: 222px;
+    top: 4px;
+
+}
+
+.rectangle-2 {
+    /* Rectangle 3872 */
+
+    position: absolute;
+    width: 259px;
+    height: 603px;
+    left: 165px;
+    top: 33px;
+
+    background: #EB9C29;
+
+}
+
+.rectangle-3 {
+    /* Rectangle 3871 */
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 303px;
+    height: 375px;
+    left: 84px;
+    top: 87px;
+    border: 25px solid #FFFFFF;
+
+}
+
+h3 {
+    /* ABOUT US */
+
+    position: absolute;
+    width: 83px;
+    height: 59px;
+    left: 770px;
+    top: 4px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 58px;
+    /* identical to box height, or 366% */
+
+    color: #8B8B8B;
+
+
+}
+
+h2 {
+    /* Chúng tôi có 20 năm kinh nghiệm trong dịch vụ lát nền & lát nền */
+
+    position: absolute;
+    width: 550px;
+    height: 77px;
+    left: 770px;
+    top: 56px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    /* or 160% */
+    text-transform: uppercase;
+
+    color: #585858;
+
+
+}
+
+hr.horizontal-line {
+    /* Line 698 */
+    position: absolute;
+    width: 537px;
+    height: 0px;
+    left: 771px;
+    top: 976px;
+    border: 1px solid #D3D3D3;
+}
+
+h4.content-about {
+    /* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it */
+
+    position: absolute;
+    width: 538px;
+    height: 146px;
+    left: 770px;
+    top: 156px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 33px;
+    /* or 220% */
+
+    color: #C0C0C0;
+
+
+}
+
+.rectangle-4 {
+    /* Rectangle 3875 */
+
+    position: absolute;
+    width: 224px;
+    height: 203px;
+    left: 1056px;
+    top: 315px;
+
+    background: #EB9C29;
+
+}
+
+.rectangle-5 {
+    /* Rectangle 3874 */
+
+    position: absolute;
+    width: 241px;
+    height: 235px;
+    left: 1079px;
+    top: 299px;
+
+}
+
+.criteria {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #585858;
+
+}
+
+.icon-ok-1 {
+    /* icons8_ok 1 */
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 770px;
+    top: 328px;
+}
+
+.icon-ok-2 {
+    /* icons8_ok 2 */
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 770px;
+    top: 365px;
+}
+
+.icon-ok-3 {
+    /* icons8_ok 3 */
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 770px;
+    top: 403px;
+}
+
+.icon-ok-4 {
+    /* icons8_ok 4 */
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 770px;
+    top: 441px;
+}
+
+.icon-ok-5 {
+    /* icons8_ok 5 */
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 770px;
+    top: 479px;
+}
+
+.criteria-1 {
+    /* Tiêu chuẩn chất lượng tốt nhất */
+    position: absolute;
+    width: 203px;
+    height: 17px;
+    left: 808px;
+    top: 329px;
+}
+
+.criteria-2 {
+    /* Đảm bảo hài lòng 100% */
+
+    position: absolute;
+    width: 155px;
+    height: 17px;
+    left: 808px;
+    top: 366px;
+
+}
+
+.criteria-3 {
+    /* Hệ thống kiểm soát chất lượng */
+
+    position: absolute;
+    width: 203px;
+    height: 17px;
+    left: 808px;
+    top: 404px;
+}
+
+.criteria-4 {
+    /* Cam kết với khách hàng */
+
+    position: absolute;
+    width: 160px;
+    height: 19px;
+    left: 808px;
+    top: 442px;
+}
+
+.criteria-5 {
+    /* Highly Professional Team */
+
+    position: absolute;
+    width: 167px;
+    height: 17px;
+    left: 808px;
+    top: 480px;
+
+}
+
+button {
+    border: 0px;
+}
+
+.details {
+    position: absolute;
+    width: 184px;
+    height: 45px;
+    left: 1008px;
+    top: 585px;
+
+    background: #EB9C29;
+    border-radius: 4px;
+
+
+}
+
+.details-1 {
+    /* XEM CHI TIẾT */
+
+    position: absolute;
+    width: 100px;
+    height: 54px;
+    left: 31px;
+    top: 15px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.icon-right-arrow-1 {
+    /* icons8_right_arrow 7 */
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 102px;
+    top: -1px;
+}
+
+.rectangle-24 {
+    /* Rectangle 3876 */
+
+    position: absolute;
+    width: 100%;
+    height: 1182px;
+    left: 0px;
+
+}
+
+.horizontal-title-1 {
+    /* Rectangle 3882 */
+    position: absolute;
+    width: 156px;
+    height: 8px;
+    left: 122px;
+    top: 52px;
+    border: none;
+    background: #FEAC2B;
+}
+
+
+h3.title-1 {
+    /* Service of us */
+
+    position: absolute;
+    width: 150px;
+    height: 24px;
+    left: 120px;
+    top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    /* identical to box height, or 100% */
+    color: #515151;
+
+}
+
+h3.title-2 {
+    /* DỊCH VỤ CỦA CHÚNG TÔI */
+
+    position: absolute;
+    width: 652px;
+    height: 51px;
+    left: 118px;
+    top: 48px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 51px;
+    /* identical to box height, or 212% */
+    text-transform: capitalize;
+
+    color: #5C5C5C;
+
+
+}
+
+.content-service {
+    /* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy */
+
+    position: absolute;
+    width: 514px;
+    height: 90px;
+    left: 530px;
+    top: 70px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 32px;
+    /* or 217% */
+
+    color: #8D8D8D;
+
+
+}
+
+.view-service {
+    /* Group 847 */
+    filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.15));
+    /* Rectangle 603 */
+    position: absolute;
+    width: 202px;
+    height: 42px;
+    left: 1118px;
+    top: 90px;
+
+    background: #EB9C29;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+
+}
+
+.view-service-1 {
+    /* XEM THÊM DỊCH VỤ */
+
+    position: absolute;
+    width: 141px;
+    height: 19px;
+    left: 19px;
+    top: 11px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    color: #FFFFFF;
+}
+
+
+.icon-right-arrow-2 {
+    /* icons8_right_arrow 5 */
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 145px;
+    top: -2px;
+}
+
+.rectangle-6 {
+    /* Rectangle 3877 */
+
+    position: absolute;
+    width: 383px;
+    height: 349px;
+    left: 121px;
+    top: 147px;
+    filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.11));
+    margin-top: 35px;
+
+}
+
+.rectangle-7 {
+    /* Rectangle 3877 */
+
+    position: absolute;
+    width: 383px;
+    height: 349px;
+    left: 529px;
+    top: 147px;
+    filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.11));
+    margin-top: 35px;
+
+}
+
+.rectangle-8 {
+    /* Rectangle 3877 */
+
+    position: absolute;
+    width: 383px;
+    height: 349px;
+    left: 937px;
+    top: 147px;
+    filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.11));
+    margin-top: 35px;
+
+}
+
+.rectangle-8 {
+    /* Rectangle 3877 */
+
+    position: absolute;
+    width: 383px;
+    height: 349px;
+    left: 937px;
+    top: 147px;
+    filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.11));
+
+
+}
+
+.rectangle-9 {
+    /* Rectangle 3877 */
+
+    position: absolute;
+    width: 383px;
+    height: 349px;
+    left: 121px;
+    top: 649px;
+    filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.11));
+
+}
+
+.rectangle-10 {
+    /* Rectangle 3877 */
+    position: absolute;
+    width: 383px;
+    height: 349px;
+    left: 529px;
+    top: 649px;
+    filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.11));
+
+}
+
+.rectangle-11 {
+    /* Rectangle 3877 */
+    position: absolute;
+    width: 383px;
+    height: 349px;
+    left: 937px;
+    top: 649px;
+    filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.11));
+}
+
+div.title-service-1 {
+    /* Rectangle 3878 */
+
+    position: absolute;
+    width: 344px;
+    height: 134px;
+    left: 142px;
+    top: 430px;
+
+    background: #272727;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    margin-top: 35px;
+}
+
+div.title-service-2 {
+    /* Rectangle 3878 */
+
+    position: absolute;
+    width: 344px;
+    height: 134px;
+    left: 550px;
+    top: 430px;
+
+    background: #272727;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    margin-top: 35px;
+}
+
+div.title-service-3 {
+    /* Rectangle 3878 */
+
+    position: absolute;
+    width: 344px;
+    height: 134px;
+    left: 958px;
+    top: 430px;
+
+    background: #272727;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    margin-top: 35px;
+}
+
+div.title-service-4 {
+    /* Rectangle 3878 */
+
+    position: absolute;
+    width: 344px;
+    height: 134px;
+    left: 142px;
+    top: 932px;
+
+    background: #272727;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+div.title-service-5 {
+    /* Rectangle 3878 */
+
+    position: absolute;
+    width: 344px;
+    height: 134px;
+    left: 550px;
+    top: 932px;
+
+    background: #272727;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+div.title-service-6 {
+    /* Rectangle 3878 */
+
+    position: absolute;
+    width: 344px;
+    height: 134px;
+    left: 958px;
+    top: 932px;
+
+    background: #272727;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.title {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 208.02%;
+    /* or 42px */
+    text-align: justify;
+    margin-top: 24px;
+    color: #FFFFFF;
+}
+
+.service-1 {
+    /* Sửa Nền Gỗ */
+
+    position: absolute;
+    width: 199px;
+    height: 38px;
+    left: 248px;
+    top: 415px;
+    margin-top: 65px;
+}
+
+
+.service-2 {
+    /* Sơn lại sàn */
+
+    position: absolute;
+    width: 199px;
+    height: 38px;
+    left: 656px;
+    top: 415px;
+    margin-top: 65px;
+}
+
+.service-3 {
+    /* Lắp Đặt Thảm */
+
+    position: absolute;
+    width: 199px;
+    height: 38px;
+    left: 1064px;
+    top: 415px;
+    margin-top: 65px;
+}
+
+.service-4 {
+    /* Vệ Sinh Sàn */
+
+    position: absolute;
+    width: 199px;
+    height: 38px;
+    left: 248px;
+    top: 917px;
+}
+
+.service-5 {
+    /* Cài đặt Vinyl */
+
+    position: absolute;
+    width: 199px;
+    height: 38px;
+    left: 643px;
+    top: 917px;
+}
+
+.service-6 {
+    /* Gạch Lát Sàn */
+
+    position: absolute;
+    width: 199px;
+    height: 38px;
+    left: 1064px;
+    top: 917px;
+}
+
+.content {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    /* or 177% */
+    color: #8D8D8D;
+    margin-top: 15px;
+}
+
+.content-service-1 {
+    /* Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt */
+    position: absolute;
+    width: 330px;
+    height: 105px;
+    left: 153px;
+    top: 478px;
+    margin-top: 55px;
+}
+
+.content-service-2 {
+    /* Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt */
+    position: absolute;
+    width: 330px;
+    height: 105px;
+    left: 561px;
+    top: 478px;
+    margin-top: 55px;
+}
+
+.content-service-3 {
+    /* Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt */
+
+    position: absolute;
+    width: 330px;
+    height: 105px;
+    left: 969px;
+    top: 478px;
+    margin-top: 55px;
+}
+
+.content-service-4 {
+    /* Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt */
+    position: absolute;
+    width: 330px;
+    height: 105px;
+    left: 153px;
+    top: 980px;
+}
+
+.content-service-5 {
+    /* Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt */
+    position: absolute;
+    width: 330px;
+    height: 105px;
+    left: 561px;
+    top: 980px;
+}
+
+.content-service-6 {
+    /* Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor incididunt */
+    position: absolute;
+    width: 330px;
+    height: 105px;
+    left: 969px;
+    top: 980px;
+}
+
+.rectangle-12 {
+    /* Rectangle 3880 */
+    position: absolute;
+    width: 100%;
+    height: 834px;
+    left: 0px;
+    top: 32px;
+    background: rgba(10 10 10 / 18%);
+}
+
+.rectangle-13 {
+    /* Rectangle 3881 */
+
+    position: absolute;
+    width: 812px;
+    height: 607px;
+    left: 0px;
+    top: 305px;
+
+}
+
+.horizontal-title-2 {
+    /* Rectangle 3882 */
+
+    position: absolute;
+    width: 156px;
+    height: 8px;
+    left: 120px;
+    top: 122px;
+    border: none;
+    background: #FEAC2B;
+}
+
+h3.title-3 {
+    /* Why choose us */
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 118px;
+    top: 91px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    /* identical to box height, or 100% */
+    color: #FFFFFF;
+}
+
+h3.title-4 {
+    /* Chúng tôi cung cấp vật liệu tốt nhất cho sàn và lát của bạn */
+    position: absolute;
+    width: 625px;
+    height: 102px;
+    left: 120px;
+    top: 130px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 51px;
+    /* or 159% */
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+h5.content-1 {
+    /* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy */
+    position: absolute;
+    width: 488px;
+    height: 146px;
+    left: 832px;
+    top: 130px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 33px;
+    /* or 220% */
+    color: #C0C0C0;
+}
+
+div.underlined-title-2 {
+    /* Rectangle 3879 */
+    position: absolute;
+    width: 344px;
+    height: 8px;
+    left: 142px;
+    top: 556px;
+
+    background: #FEAC2B;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+.reliability-1 {
+    /* reliability 1 */
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 893px;
+    top: 385px;
+}
+
+.reliability-2 {
+    /* reliability 2 */
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 1173px;
+    top: 385px;
+}
+
+.reliability-3 {
+    /* reliability 3 */
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 893px;
+    top: 600px;
+}
+
+.reliability-4 {
+    /* reliability 4 */
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 1173px;
+    top: 600px;
+}
+
+li.text-number {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 24px;
+    /* identical to box height, or 67% */
+    color: #FFFFFF;
+}
+
+.define-add {
+    color: #FEAC2B;
+    border: none;
+}
+
+li.text-title {
+    /* năm kinh nghiệm */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+li.number-1 {
+    /* 20+ */
+
+    position: absolute;
+    width: 72px;
+    height: 24px;
+    left: 893px;
+    top: 466px;
+}
+
+li.number-2 {
+    /* 5,240+ */
+    position: absolute;
+    width: 130px;
+    height: 24px;
+    left: 1173px;
+    top: 466px;
+}
+
+li.number-3 {
+    /* 40+ */
+    position: absolute;
+    width: 74px;
+    height: 24px;
+    left: 893px;
+    top: 681px;
+}
+
+li.number-4 {
+    /* 3,752+ */
+    position: absolute;
+    width: 125px;
+    height: 24px;
+    left: 1173px;
+    top: 681px;
+}
+
+li.experience {
+    /* năm kinh nghiệm */
+    position: absolute;
+    width: 128px;
+    height: 24px;
+    left: 891px;
+    top: 505px;
+}
+
+li.customer {
+    /* khách hàng hài lòng */
+    position: absolute;
+    width: 153px;
+    height: 24px;
+    left: 1171px;
+    top: 505px;
+}
+
+li.team {
+    /* Đội ngũ chuyên nghiệp */
+    position: absolute;
+    width: 170px;
+    height: 24px;
+    left: 891px;
+    top: 720px;
+}
+
+li.project {
+    /* dư án thành công */
+    position: absolute;
+    width: 135px;
+    height: 24px;
+    left: 1171px;
+    top: 720px;
+}
+
+.horizontal-title-3 {
+    /* Rectangle 3882 */
+    position: absolute;
+    width: 124px;
+    height: 6px;
+    left: 658px;
+    top: 98px;
+    border: none;
+    background: #FEAC2B;
+}
+
+h3.project {
+    /* Our Project */
+    position: absolute;
+    width: 128px;
+    height: 24px;
+    left: 656px;
+    top: 66px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    /* identical to box height, or 100% */
+    text-align: center;
+    color: #545454;
+}
+
+h3.your-project {
+    /* dự án nổi bật của chúng tôi */
+
+    position: absolute;
+    width: 625px;
+    height: 51px;
+    left: 408px;
+    top: 112px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 51px;
+    /* identical to box height, or 159% */
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #3D3D3D;
+
+
+}
+
+h4.content-project {
+    /* Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it */
+
+    position: absolute;
+    width: 832px;
+    height: 146px;
+    left: 305px;
+    top: 178px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 33px;
+    /* or 220% */
+    text-align: center;
+    color: #C0C0C0;
+}
+
+.rectangle-14 {
+    /* Rectangle 3872 */
+    position: absolute;
+    width: 590px;
+    height: 282px;
+    left: 425px;
+    top: 300px;
+}
+
+.rectangle-15 {
+    /* Rectangle 3873 */
+    position: absolute;
+    width: 285px;
+    height: 282px;
+    left: 1035px;
+    top: 300px;
+}
+
+.rectangle-16 {
+    /* Rectangle 3870 */
+    position: absolute;
+    width: 590px;
+    height: 282px;
+    left: 120px;
+    top: 599px;
+}
+
+.rectangle-17 {
+    /* Rectangle 3871 */
+    position: absolute;
+    width: 590px;
+    height: 282px;
+    left: 730px;
+    top: 599px;
+}
+
+.rectangle-18 {
+    /* Rectangle 3874 */
+    position: absolute;
+    width: 285px;
+    height: 282px;
+    left: 120px;
+    top: 300px;
+}
+
+.cover-rectangle-18 {
+    /* Rectangle 3882 */
+
+    position: absolute;
+    width: 283px;
+    height: 282px;
+    left: 120px;
+    top: 300px;
+
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.vertical {
+    /* Line 699 */
+
+    position: absolute;
+    width: 238px;
+    height: 0px;
+    left: 17px;
+    top: 443px;
+
+    border: 1px solid #FFFFFF;
+    transform: rotate(90deg);
+
+}
+
+.horizontal {
+    /* Line 700 */
+    position: absolute;
+    width: 210px;
+    height: 0px;
+    left: 129px;
+    top: 553px;
+    border: 1px solid #FFFFFF;
+}
+
+.rectangle-19 {
+    /* Rectangle 3869 */
+    position: absolute;
+    width: 100%;
+    height: 549px;
+    left: 2px;
+    top: 429px;
+}
+
+.title-project {
+    /* Phòng Ngủ Sàn Gỗ */
+
+    position: absolute;
+    width: 178px;
+    height: 34px;
+    left: 151px;
+    top: 475px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 208.02%;
+    /* or 31px */
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+span.content-project {
+    /* Lorem ipsum dolor sit amet, consecte adipiscing elit, sed do eiusmod tempor */
+
+    position: absolute;
+    width: 252px;
+    height: 93px;
+    left: 151px;
+    top: 502px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 26px;
+    /* or 204% */
+    color: #F7F7F7;
+}
+
+.horizontal-title-4 {
+    /* Rectangle 3882 */
+    position: absolute;
+    width: 156px;
+    height: 8px;
+    left: 634px;
+    top: 241px;
+    border: none;
+    background: #FEAC2B;
+}
+
+h3.news-event-1 {
+    /* New & Event */
+    position: absolute;
+    width: 145px;
+    height: 24px;
+    left: 646px;
+    top: 211px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    /* identical to box height, or 100% */
+    text-align: center;
+    color: #545454;
+}
+
+h3.news-event-2 {
+    /* TIN TỨC & SỰ KIỆN */
+
+    position: absolute;
+    width: 240px;
+    height: 29px;
+    left: 607px;
+    top: 265px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    text-align: center;
+    color: #454545;
+}
+
+h4.content-news-event {
+    /* Peel To Reveal: Four Reasons To Consider A Professional Peel Treatment For Your Skin If you love coming to Eyebrow Ink Styling for our popular brow styling and permanent */
+    position: absolute;
+    width: 713px;
+    height: 157px;
+    left: 364px;
+    top: 315px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 30px;
+    /* or 235% */
+    text-align: center;
+    color: #363636;
+}
+
+.rectangle-20 {
+    /* Rectangle 3122 */
+    position: absolute;
+    width: 416px;
+    height: 286px;
+    left: 50px;
+    top: 420px;
+}
+
+.rectangle-21 {
+    /* Rectangle 3124 */
+    position: absolute;
+    width: 416px;
+    height: 286px;
+    left: 511px;
+    top: 420px;
+}
+
+.rectangle-22 {
+    /* Rectangle 3123 */
+    position: absolute;
+    width: 416px;
+    height: 286px;
+    left: 974px;
+    top: 420px;
+}
+
+div.day-1 {
+    /* Rectangle 3125 */
+    position: absolute;
+    width: 71px;
+    height: 67px;
+    left: 63px;
+    top: 668px;
+    background: #FEAC2B;
+}
+
+div.day-2 {
+    /* Rectangle 3127 */
+    position: absolute;
+    width: 71px;
+    height: 67px;
+    left: 524px;
+    top: 668px;
+    background: #FEAC2B;
+}
+
+div.day-3 {
+    /* Rectangle 3126 */
+    position: absolute;
+    width: 71px;
+    height: 67px;
+    left: 987px;
+    top: 668px;
+    background: #FEAC2B;
+}
+
+h5.text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+h5.day-1 {
+    /* 27 */
+    position: absolute;
+    width: 20px;
+    height: 24px;
+    left: 88px;
+    top: 648px;
+}
+
+h5.day-2 {
+    /* 27 */
+    position: absolute;
+    width: 20px;
+    height: 24px;
+    left: 549px;
+    top: 648px;
+}
+
+h5.day-3 {
+    /* 27 */
+    position: absolute;
+    width: 20px;
+    height: 24px;
+    left: 1012px;
+    top: 648px;
+}
+
+
+h5.moth-1 {
+    /* Oct */
+    position: absolute;
+    width: 28px;
+    height: 24px;
+    left: 83px;
+    top: 683px;
+}
+
+h5.moth-2 {
+    /* Oct */
+    position: absolute;
+    width: 28px;
+    height: 24px;
+    left: 544px;
+    top: 683px;
+}
+
+h5.moth-3 {
+    /* Oct */
+    position: absolute;
+    width: 28px;
+    height: 24px;
+    left: 1007px;
+    top: 683px;
+}
+
+hr.day-1 {
+    /* Line 584 */
+    position: absolute;
+    width: 48px;
+    height: 0px;
+    left: 74px;
+    top: 696px;
+    border: 0.5px solid #FFFFFF;
+}
+
+hr.day-2 {
+    /* Line 585 */
+    position: absolute;
+    width: 48px;
+    height: 0px;
+    left: 536px;
+    top: 696px;
+    border: 0.5px solid #FFFFFF;
+}
+
+hr.day-3 {
+    /* Line 586 */
+    position: absolute;
+    width: 48px;
+    height: 0px;
+    left: 998px;
+    top: 696px;
+    border: 0.5px solid #FFFFFF;
+}
+
+h5.text-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    text-transform: capitalize;
+
+    color: #4E4848;
+}
+
+h5.title-day-1 {
+    /* cách chọn các loại nền gỗ phù hợp với ngôi nhà của bạn 2023 */
+    position: absolute;
+    width: 355px;
+    height: 56px;
+    left: 79px;
+    top: 733px;
+}
+
+h5.title-day-2 {
+    /* cách chọn các loại nền gỗ phù hợp với ngôi nhà của bạn 2023 */
+
+    position: absolute;
+    width: 355px;
+    height: 56px;
+    left: 540px;
+    top: 733px;
+
+}
+
+h5.title-day-3 {
+    /* cách chọn các loại nền gỗ phù hợp với ngôi nhà của bạn 2023 */
+
+    position: absolute;
+    width: 355px;
+    height: 56px;
+    left: 1003px;
+    top: 733px;
+}
+
+h5.text-content {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    /* or 200% */
+    text-align: justify;
+    color: #858585;
+}
+
+h5.content-day-1 {
+    /* Làm tủ bếp hết bao nhiêu tiền? một câu hỏi được quan tâm của nhiều người mua hàng. Để không bị mua hàng chênh lệch giá quá nhiều so với giá trị thực của sản phẩm */
+    position: absolute;
+    width: 355px;
+    height: 84px;
+    left: 79px;
+    top: 794px;
+}
+
+h5.content-day-2 {
+    /* Làm tủ bếp hết bao nhiêu tiền? một câu hỏi được quan tâm của nhiều người mua hàng. Để không bị mua hàng chênh lệch giá quá nhiều so với giá trị thực của sản phẩm */
+    position: absolute;
+    width: 355px;
+    height: 84px;
+    left: 540px;
+    top: 794px;
+}
+
+h5.content-day-3 {
+    /* Làm tủ bếp hết bao nhiêu tiền? một câu hỏi được quan tâm của nhiều người mua hàng. Để không bị mua hàng chênh lệch giá quá nhiều so với giá trị thực của sản phẩm */
+    position: absolute;
+    width: 355px;
+    height: 84px;
+    left: 1003px;
+    top: 794px;
+}
+
+img.icon-account-1 {
+    /* icons8_account_1 1 */
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    left: 153px;
+    top: 716px;
+}
+
+img.icon-account-2 {
+    /* icons8_account_1 1 */
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    left: 614px;
+    top: 716px;
+}
+
+img.icon-account-3 {
+    /* icons8_account_1 1 */
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    left: 1077px;
+    top: 716px;
+}
+
+h5.text-admin {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    /* identical to box height, or 233% */
+    color: #858585;
+
+}
+
+h5.admin-day-1 {
+    /* Admin */
+    position: absolute;
+    width: 36px;
+    height: 28px;
+    left: 179px;
+    top: 693px;
+}
+
+h5.admin-day-2 {
+    /* Admin */
+    position: absolute;
+    width: 36px;
+    height: 28px;
+    left: 640px;
+    top: 693px;
+}
+
+h5.admin-day-3 {
+    /* Admin */
+    position: absolute;
+    width: 36px;
+    height: 28px;
+    left: 1103px;
+    top: 693px;
+}
+
+img.icon-eye-1 {
+    /* icons8_eye 20 */
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 232px;
+    top: 718px;
+}
+
+img.icon-eye-2 {
+    /* icons8_eye 22 */
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 693px;
+    top: 718px;
+}
+
+img.icon-eye-3 {
+    /* icons8_eye 21 */
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 1156px;
+    top: 718px;
+}
+
+h5.text-eye {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    /* identical to box height, or 233% */
+    color: #858585;
+}
+
+h5.eye-day-1 {
+    /* 330 lượt xem */
+    position: absolute;
+    width: 75px;
+    height: 28px;
+    left: 257px;
+    top: 693px;
+}
+
+h5.eye-day-2 {
+    /* 330 lượt xem */
+    position: absolute;
+    width: 75px;
+    height: 28px;
+    left: 718px;
+    top: 693px;
+}
+
+h5.eye-day-3 {
+    /* 330 lượt xem */
+    position: absolute;
+    width: 75px;
+    height: 28px;
+    left: 1181px;
+    top: 693px;
+}
+
+button:hover {
+    background: #f12711;
+    background: -webkit-linear-gradient(to right, #f12711, #f5af19);
+    background: linear-gradient(to right, #f12711, #f5af19);
+}
+
+
+
+/* Brightness-zoom Container */
+/* .hover-image img {
+    transition: transform 2s;
+} */
+
+/* The Transformation */
+/* .hover-image:hover img {
+    filter: brightness(100%);
+    transform: scale(1.3);
+} */
+
+
+.hover-day img.img-day {
+    -webkit-filter: sepia(100%);
+    filter: sepia(100%);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.hover-day img.img-day:hover {
+    -webkit-filter: sepia(0);
+    filter: sepia(0);
+}
+
+.criteria li {
+    padding: .1em .4em;
+
+}
+
+.criteria img {
+    padding: .1em .4em;
+
+}
+
+.criteria li::before,
+.criteria li::after {
+    content: '';
+    height: 14px;
+    width: 14px;
+    position: absolute;
+    transition: all .35s ease;
+    opacity: 0;
+}
+
+.criteria li::before {
+    content: '';
+    right: 0;
+    top: 0;
+    border-top: 3px solid #3E8914;
+    border-right: 3px solid #2E640F;
+    transform: translate(-100%, 50%);
+}
+
+.criteria li:after {
+    content: '';
+    left: 0;
+    bottom: 0;
+    border-bottom: 3px solid #2E640F;
+    border-left: 3px solid #3E8914;
+    transform: translate(100%, -50%)
+}
+
+.criteria li:hover:before,
+.criteria li:hover:after {
+    transform: translate(0, 0);
+    opacity: 1;
+}
+
+.criteria li:hover {
+    color: #3DA35D;
+}
+
+.zoom-title{
+    transition: transform 2s;
+}
+
+.zoom-title:hover{
+    filter: brightness(100%);
+    color: rgb(0, 140, 255);
+    transform: scale(1.3);
+}
+
+/* div.hover-image{
+    overflow: hidden;
+}
+.hover-image>.abc{
+    display: block;
+    overflow: hidden;
+}
+.hover-image>.abc:hover img{
+    transform: scale(1.5);
+} */

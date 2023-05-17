@@ -1,0 +1,167 @@
+.header-one{
+    position: relative;
+    width: 100%;
+    height: 850px;
+    left: 0;
+    top:0;
+}
+.Frame-1{
+    /* Frame 1 */
+
+position: absolute;
+width: 206px;
+height: 46px;
+left: 120px;
+top: 34px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    
+}
+
+.li-item{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #585858;
+}
+
+.home{
+    /* TRANG CHỦ */
+    position: absolute;
+    width: 84px;
+    height: 19px;
+    left: 532px;
+    top: 48px;
+
+   
+}
+.about{
+    /* VỀ CHÚNG TÔI */
+
+position: absolute;
+width: 101px;
+height: 19px;
+left: 671px;
+top: 48px;
+
+}
+.service{
+/* DỊCH VỤ */
+
+position: absolute;
+width: 60px;
+height: 19px;
+left: 827px;
+top: 48px;
+
+}
+.product{
+/* SẢN PHẨM */
+
+position: absolute;
+width: 76px;
+height: 19px;
+left: 942px;
+top: 48px;
+}
+.news{
+/* TIN TỨC */
+
+position: absolute;
+width: 56px;
+height: 19px;
+left: 1073px;
+top: 48px;
+
+}
+.contact{
+/* LIÊN HỆ */
+
+position: absolute;
+width: 56px;
+height: 19px;
+left: 1184px;
+top: 48px;
+
+}
+
+.search{
+    
+position: absolute;
+width: 28px;
+height: 27px;
+left: 1293px;
+top: 44px;
+}
+.icon-search{
+/* Vector */
+position: absolute;
+left: 10%;
+right: 9.95%;
+top: 10%;
+bottom: 9.95%;
+background: #373737;
+}
+
+.header-1{
+    /* Rectangle 3870 */
+
+position: absolute;
+width: 100%;
+height: 114px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+}
+
+.rectangle{
+    width: 100%;
+    height: auto;
+
+}
+
+.sub-menu{
+    display: none;
+    position: absolute;
+    background-color: #FFFFFF;
+    min-width: 100px;
+}
+
+.text-sub{
+    margin-top: 10px;
+}
+
+ul.sub-menu li.text-sub a{
+    text-decoration: none;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #585858;  
+    display: block;
+}
+
+.main-menu li:hover .sub-menu{
+    display: block;
+}
+
+
+ul li a:hover {
+    color: #FEAC2B;
+}
+
+ul.sub-menu li.text-sub a:hover{
+    color: #FEAC2B;
+}
